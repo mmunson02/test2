@@ -1,0 +1,41 @@
+
+span{
+    background-color:#FF0000 ;
+    color:#0000FF;
+}
+spam{
+    background-color:#800080 ;
+    color:#FFE000;
+}
+span1{
+    background-color:#008000;
+    color:#FFEA90;
+}
+spam1{
+    background-color:# ;
+    color:#FFEA90 ;
+}
+a1{
+    background-color:#FFA500 ;
+    color:#;
+}
+a2{
+    background-color:#000000 ;
+    color:#FFFFFF;
+}
+a3{
+    background-color:#FFFFFF ;
+    color:#33FF99;
+}
+img{
+    /*position: absolute;
+    clip: rect(0px,200px,200px,0px);*/
+    height: 100px ;
+    width: 100px ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.complete-todo{
+    text-decoration: line-through;
+}
